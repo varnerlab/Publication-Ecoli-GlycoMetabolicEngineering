@@ -1,0 +1,254 @@
+\begin{thebibliography}{10}
+
+\bibitem{2013-merritt-fisher-delisa-BiotechBioeng}
+Merritt, J.~H., Ollis, A.~A., Fisher, A.~C., and DeLisa, M.~P.
+\newblock Glycans-by-design: engineering bacteria for the biosynthesis of
+  complex glycans and glycoconjugates.
+\newblock {\em Biotechnol Bioeng}{ \bf 110}(6), 1550--64, Jun  (2013).
+
+\bibitem{2010-sola-griebenow-Biodrugs}
+Sol{\'a}, R.~J. and Griebenow, K.
+\newblock Glycosylation of therapeutic proteins: an effective strategy to
+  optimize efficacy.
+\newblock {\em BioDrugs}{ \bf 24}(1), 9--21, Feb  (2010).
+
+\bibitem{1999-szymanski-guerry-MolMicrob}
+Szymanski, C.~M., Yao, R., Ewing, C.~P., Trust, T.~J., and Guerry, P.
+\newblock Evidence for a system of general protein glycosylation in
+  campylobacter jejuni.
+\newblock {\em Mol Microbiol}{ \bf 32}(5), 1022--30, Jun  (1999).
+
+\bibitem{2011-fisher-haitjema-delisa-AppEnvMicrobio}
+Fisher, A.~C., Haitjema, C.~H., Guarino, C., {\c C}elik, E., Endicott, C.~E.,
+  Reading, C.~A., Merritt, J.~H., Ptak, A.~C., Zhang, S., and DeLisa, M.~P.
+\newblock Production of secretory and extracellular n-linked glycoproteins in
+  escherichia coli.
+\newblock {\em Appl Environ Microbiol}{ \bf 77}(3), 871--81, Feb  (2011).
+
+\bibitem{2002-wacker-aebi-Sci}
+Wacker, M., Linton, D., Hitchen, P.~G., Nita-Lazar, M., Haslam, S.~M., North,
+  S.~J., Panico, M., Morris, H.~R., Dell, A., Wren, B.~W., and Aebi, M.
+\newblock N-linked glycosylation in campylobacter jejuni and its functional
+  transfer into e. coli.
+\newblock {\em Science}{ \bf 298}(5599), 1790--3, Nov  (2002).
+
+\bibitem{2011-pandhal-wright-BiotechBioeng}
+Pandhal, J., Ow, S.~Y., Noirel, J., and Wright, P.~C.
+\newblock Improving n-glycosylation efficiency in escherichia coli using
+  shotgun proteomics, metabolic network analysis, and selective reaction
+  monitoring.
+\newblock {\em Biotechnol Bioeng}{ \bf 108}(4), 902--12, Apr  (2011).
+
+\bibitem{2012-valderrama-rincon-delisa-NatChemBio}
+Valderrama-Rincon, J.~D., Fisher, A.~C., Merritt, J.~H., Fan, Y.-Y., Reading,
+  C.~A., Chhiba, K., Heiss, C., Azadi, P., Aebi, M., and DeLisa, M.~P.
+\newblock An engineered eukaryotic protein glycosylation pathway in escherichia
+  coli.
+\newblock {\em Nat Chem Biol}{ \bf 8}(5), 434--6, May  (2012).
+
+\bibitem{2014-jaffe-pandhal-wright-CurOpBiotech}
+Jaff{\'e}, S.~R., Strutton, B., Levarski, Z., Pandhal, J., and Wright, P.~C.
+\newblock Escherichia coli as a glycoprotein production host: recent
+  developments and challenges.
+\newblock {\em Curr Opin Biotechnol}{ \bf 30C}, 205--210, Aug  (2014).
+
+\bibitem{2013-pandhal-woodruff-gill-wright-BiotechBioeng}
+Pandhal, J., Woodruff, L. B.~A., Jaffe, S., Desai, P., Ow, S.~Y., Noirel, J.,
+  Gill, R.~T., and Wright, P.~C.
+\newblock Inverse metabolic engineering to improve escherichia coli as an
+  n-glycosylation host.
+\newblock {\em Biotechnol Bioeng}{ \bf 110}(9), 2482--93, Sep  (2013).
+
+\bibitem{2012-pandhal-wright-BBRC}
+Pandhal, J., Desai, P., Walpole, C., Doroudi, L., Malyshev, D., and Wright,
+  P.~C.
+\newblock Systematic metabolic engineering for improvement of glycosylation
+  efficiency in escherichia coli.
+\newblock {\em Biochem Biophys Res Commun}{ \bf 419}(3), 472--6, Mar  (2012).
+
+\bibitem{2007-feist-reed-hatzimanikatis-palsson-MolSysBio}
+Feist, A.~M., Henry, C.~S., Reed, J.~L., Krummenacker, M., Joyce, A.~R., Karp,
+  P.~D., Broadbelt, L.~J., Hatzimanikatis, V., and Palsson, B.~{\O}.
+\newblock A genome-scale metabolic reconstruction for escherichia coli k-12
+  mg1655 that accounts for 1260 orfs and thermodynamic information.
+\newblock {\em Mol Syst Biol}{ \bf 3}, 121 (2007).
+
+\bibitem{2004-covert-reed-herrgard-palsson-Nat}
+Covert, M.~W., Knight, E.~M., Reed, J.~L., Herrgard, M.~J., and Palsson, B.~O.
+\newblock Integrating high-throughput and computational data elucidates
+  bacterial networks.
+\newblock {\em Nature}{ \bf 429}(6987), 92--6, May  (2004).
+
+\bibitem{1994-varma-palsson-NatBiotech}
+Varma, A. and Palsson, B.~O.
+\newblock Metabolic flux balancing: Basic concepts, scientific and practical
+  use.
+\newblock {\em Nat Biotechnol}{ \bf 12}, 994--998 (1994).
+
+\bibitem{2010-feist-orth-palsson-MetabEng}
+Feist, A.~M., Zielinski, D.~C., Orth, J.~D., Schellenberger, J., Herrgard,
+  M.~J., and Palsson, B.~{\O}.
+\newblock Model-driven evaluation of the production potential for
+  growth-coupled products of escherichia coli.
+\newblock {\em Metab Eng}{ \bf 12}(3), 173--86, May  (2010).
+
+\bibitem{2003-burgard-maranas-BiotechBioeng-02}
+Burgard, A.~P., Pharkya, P., and Maranas, C.~D.
+\newblock Optknock: a bilevel programming framework for identifying gene
+  knockout strategies for microbial strain optimization.
+\newblock {\em Biotechnol Bioeng}{ \bf 84}(6), 647--57, Dec  (2003).
+
+\bibitem{2002-ibarra-edwards-palsson-Nat}
+Ibarra, R.~U., Edwards, J.~S., and Palsson, B.~O.
+\newblock Escherichia coli k-12 undergoes adaptive evolution to achieve in
+  silico predicted optimal growth.
+\newblock {\em Nature}{ \bf 420}(6912), 186--9, Nov  (2002).
+
+\bibitem{2005-patil-nielsen-BMCBioinfo}
+Patil, K.~R., Rocha, I., F{\"o}rster, J., and Nielsen, J.
+\newblock Evolutionary programming as a platform for in silico metabolic
+  engineering.
+\newblock {\em BMC Bioinformatics}{ \bf 6}, 308 (2005).
+
+\bibitem{2008-rocha-nielsen-patil-BMCBioinfo}
+Rocha, M., Maia, P., Mendes, R., Pinto, J.~P., Ferreira, E.~C., Nielsen, J.,
+  Patil, K.~R., and Rocha, I.
+\newblock Natural computation meta-heuristics for the in silico optimization of
+  microbial strains.
+\newblock {\em BMC Bioinformatics}{ \bf 9}, 499 (2008).
+
+\bibitem{1983-kirkpatrick-vecchi-Sci}
+Kirkpatrick, S., Gelatt, Jr, C.~D., and Vecchi, M.~P.
+\newblock Optimization by simulated annealing.
+\newblock {\em Science}{ \bf 220}(4598), 671--80, May  (1983).
+
+\bibitem{2005-sauer-eikmanns-FEMSMicrobioRev}
+Sauer, U. and Eikmanns, B.~J.
+\newblock The pep-pyruvate-oxaloacetate node as the switch point for carbon
+  flux distribution in bacteria.
+\newblock {\em FEMS Microbiol Rev}{ \bf 29}(4), 765--94, Sep  (2005).
+
+\bibitem{2005-gosset-MicrobCellFact}
+Gosset, G.
+\newblock Improvement of escherichia coli production strains by modification of
+  the phosphoenolpyruvate:sugar phosphotransferase system.
+\newblock {\em Microb Cell Fact}{ \bf 4}(1), 14, May  (2005).
+
+\bibitem{2004-sauer-fischer-JBC}
+Sauer, U., Canonaco, F., Heri, S., Perrenoud, A., and Fischer, E.
+\newblock The soluble and membrane-bound transhydrogenases udha and pntab have
+  divergent functions in nadph metabolism of escherichia coli.
+\newblock {\em J Biol Chem}{ \bf 279}(8), 6613--9, Feb  (2004).
+
+\bibitem{2006-baba-tomita-mori-MolSysBio}
+Baba, T., Ara, T., Hasegawa, M., Takai, Y., Okumura, Y., Baba, M., Datsenko,
+  K.~A., Tomita, M., Wanner, B.~L., and Mori, H.
+\newblock Construction of escherichia coli k-12 in-frame, single-gene knockout
+  mutants: the keio collection.
+\newblock {\em Mol Syst Biol}{ \bf 2}, 2006.0008 (2006).
+
+\bibitem{2003-jiao-baba-shimizu-FEMSMicrobLet}
+Jiao, Z., Baba, T., Mori, H., and Shimizu, K.
+\newblock Analysis of metabolic and physiological responses to gnd knockout in
+  escherichia coli by using c-13 tracer experiment and enzyme activity
+  measurement.
+\newblock {\em FEMS Microbiol Lett}{ \bf 220}(2), 295--301, Mar  (2003).
+
+\bibitem{1999-sauer-bailey-JBact}
+Sauer, U., Lasko, D.~R., Fiaux, J., Hochuli, M., Glaser, R., Szyperski, T.,
+  W{\"u}thrich, K., and Bailey, J.~E.
+\newblock Metabolic flux ratio analysis of genetic and environmental
+  modulations of escherichia coli central carbon metabolism.
+\newblock {\em J Bacteriol}{ \bf 181}(21), 6679--88, Nov  (1999).
+
+\bibitem{2008-kremling-bettenbrock-gilles-Bioinfo}
+Kremling, A., Bettenbrock, K., and Gilles, E.~D.
+\newblock A feed-forward loop guarantees robust behavior in escherichia coli
+  carbohydrate uptake.
+\newblock {\em Bioinformatics}{ \bf 24}(5), 704--10, Mar  (2008).
+
+\bibitem{2013-link-sauer-NatBiotech}
+Link, H., Kochanowski, K., and Sauer, U.
+\newblock Systematic identification of allosteric protein-metabolite
+  interactions that control enzyme activity in vivo.
+\newblock {\em Nat Biotechnol}{ \bf 31}(4), 357--61, Apr  (2013).
+
+\bibitem{2014-link-sauer-CurOpBiotech}
+Link, H., Christodoulou, D., and Sauer, U.
+\newblock Advancing metabolic models with kinetic information.
+\newblock {\em Curr Opin Biotechnol}{ \bf 29C}, 8--14, Oct  (2014).
+
+\bibitem{2007-schuetz-sauer-MolSysBio}
+Schuetz, R., Kuepfer, L., and Sauer, U.
+\newblock Systematic evaluation of objective functions for predicting
+  intracellular fluxes in escherichia coli.
+\newblock {\em Mol Syst Biol}{ \bf 3}, 119 (2007).
+
+\bibitem{2014-ohno-furusawa-Bioinfo}
+Ohno, S., Shimizu, H., and Furusawa, C.
+\newblock Fastpros: screening of reaction knockout strategies for metabolic
+  engineering.
+\newblock {\em Bioinformatics}{ \bf 30}(7), 981--7, Apr  (2014).
+
+\bibitem{1995-cherepanov-wackernagel-Gene}
+Cherepanov, P.~P. and Wackernagel, W.
+\newblock Gene disruption in escherichia coli: Tcr and kmr cassettes with the
+  option of flp-catalyzed excision of the antibiotic-resistance determinant.
+\newblock {\em Gene}{ \bf 158}(1), 9--14, May  (1995).
+
+\bibitem{2005-feldman-aebi-PNAS}
+Feldman, M.~F., Wacker, M., Hernandez, M., Hitchen, P.~G., Marolda, C.~L.,
+  Kowarik, M., Morris, H.~R., Dell, A., Valvano, M.~A., and Aebi, M.
+\newblock Engineering n-linked protein glycosylation with diverse o antigen
+  lipopolysaccharide structures in escherichia coli.
+\newblock {\em Proc Natl Acad Sci U S A}{ \bf 102}(8), 3016--21, Feb  (2005).
+
+\bibitem{2003-delisa-georgiou-PNAS}
+DeLisa, M.~P., Tullman, D., and Georgiou, G.
+\newblock Folding quality control in the export of proteins by the bacterial
+  twin-arginine translocation pathway.
+\newblock {\em Proc Natl Acad Sci U S A}{ \bf 100}(10), 6115--20, May  (2003).
+
+\bibitem{2005-bernatchez-wakarchuk-JBC}
+Bernatchez, S., Szymanski, C.~M., Ishiyama, N., Li, J., Jarrell, H.~C., Lau,
+  P.~C., Berghuis, A.~M., Young, N.~M., and Wakarchuk, W.~W.
+\newblock A single bifunctional udp-glcnac/glc 4-epimerase supports the
+  synthesis of three cell surface glycoconjugates in campylobacter jejuni.
+\newblock {\em J Biol Chem}{ \bf 280}(6), 4792--802, Feb  (2005).
+
+\bibitem{2006-schoenhofen-logan-JBC}
+Schoenhofen, I.~C., McNally, D.~J., Vinogradov, E., Whitfield, D., Young,
+  N.~M., Dick, S., Wakarchuk, W.~W., Brisson, J.-R., and Logan, S.~M.
+\newblock Functional characterization of dehydratase/aminotransferase pairs
+  from helicobacter and campylobacter: enzymes distinguishing the pseudaminic
+  acid and bacillosamine biosynthetic pathways.
+\newblock {\em J Biol Chem}{ \bf 281}(2), 723--32, Jan  (2006).
+
+\bibitem{2006-olivier-imperiali-Biochem}
+Olivier, N.~B., Chen, M.~M., Behr, J.~R., and Imperiali, B.
+\newblock In vitro biosynthesis of udp-n,n'-diacetylbacillosamine by enzymes of
+  the campylobacter jejuni general protein glycosylation system.
+\newblock {\em Biochemistry}{ \bf 45}(45), 13659--69, Nov  (2006).
+
+\bibitem{2006-glover-imperiali-Biochem}
+Glover, K.~J., Weerapana, E., Chen, M.~M., and Imperiali, B.
+\newblock Direct biochemical evidence for the utilization of udp-bacillosamine
+  by pglc, an essential glycosyl-1-phosphate transferase in the campylobacter
+  jejuni n-linked glycosylation pathway.
+\newblock {\em Biochemistry}{ \bf 45}(16), 5343--50, Apr  (2006).
+
+\bibitem{2006-kelly-szymanski-JBact}
+Kelly, J., Jarrell, H., Millar, L., Tessier, L., Fiori, L.~M., Lau, P.~C.,
+  Allan, B., and Szymanski, C.~M.
+\newblock Biosynthesis of the n-linked glycan in campylobacter jejuni and
+  addition onto protein through block transfer.
+\newblock {\em J Bacteriol}{ \bf 188}(7), 2427--34, Apr  (2006).
+
+\bibitem{2005-linton-aebi-wren-MolMicrob}
+Linton, D., Dorrell, N., Hitchen, P.~G., Amber, S., Karlyshev, A.~V., Morris,
+  H.~R., Dell, A., Valvano, M.~A., Aebi, M., and Wren, B.~W.
+\newblock Functional analysis of the campylobacter jejuni n-linked protein
+  glycosylation pathway.
+\newblock {\em Mol Microbiol}{ \bf 55}(6), 1695--703, Mar  (2005).
+
+\end{thebibliography}

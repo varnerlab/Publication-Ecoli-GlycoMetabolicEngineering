@@ -1,0 +1,7 @@
+
+Discussion:
+- discuss relatively low level of WT glyco efficiency seen in minimal media
+
+Additional experiments to do:
+- FACE experiments
+- run western WT CLM24 in LB versus minimal media to compare baseline glycosylation efficiency
